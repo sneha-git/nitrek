@@ -1,0 +1,8 @@
+title: Nitesh Singh
+description: It's Just About Programming!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

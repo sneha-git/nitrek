@@ -24,3 +24,4 @@ When I'm not developing and building things, you can find me on Youtube,Coursera
 
 ![Nitrek's Github Stats](https://github-readme-stats.vercel.app/api?username=nitrek&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitrek)
